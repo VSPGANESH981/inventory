@@ -1,0 +1,1 @@
+export const INVENTORY_API = 'http://localhost:8001/api';

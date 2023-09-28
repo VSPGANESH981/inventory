@@ -1,0 +1,99 @@
+.linkTag {
+    background-color: #61DAFB;
+    font-size: 15px;
+    border-radius: 5px;
+    padding: 15px 20px;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-weight: bold;
+    display: block;
+    margin: 0px 15px;
+}
+
+.tableStyles {
+    margin: 15px;
+}
+
+.tableHeader {
+    background-color: rgb(77, 85, 200);
+    color: white;
+}
+
+.stickyHeader {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: auto;
+    width: 40% !important;
+    padding: 15px 20px;
+    background-color: rgba(190, 81, 45, 0.984);
+    border-radius: 5px;
+    z-index: 100;
+}
+
+.spanText {
+    font-weight: 600;
+    font-style: normal;
+    font-size: medium;
+    color: white;
+}
+
+.formField {
+    width: 100%;
+    margin: 15px !important;
+}
+
+.modalStyles {
+    padding: 10px;
+    margin: 10px 0px;
+}
+
+.itemBox {
+    margin: auto;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: row;
+    width: 500px;
+    height: auto;
+    padding: 10px 25px;
+    background-color: aliceblue;
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+
+.innerFlex {
+    padding-left: 25px;
+    text-align: left;
+}
+
+.nameText {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.quantityText {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.headerRow {
+    text-align: left !important;
+    color: white !important;
+}
+
+.totalCount {
+    background-color: cyan;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-bottom: 15px;
+}
+
+.formStyles {
+    width: 30%;
+    margin: auto;
+}
